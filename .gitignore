@@ -4,6 +4,7 @@
 .idea
 .bundle
 .sass-cache
+.jekyll-cache
 _site
 node_moudules
 Gemfile.lock
