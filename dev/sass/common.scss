@@ -17,8 +17,9 @@
     .g-logo {
         float: left;
         margin-left: 2%;
+        margin-top: -5px;
         width: 60px;
-        height: $g-header-h;
+        height: 35px;
         background: url('../icons/logo.svg') no-repeat center;
         background-size: 100% 100%;
         opacity: .8;
@@ -539,7 +540,7 @@
     padding: 0 0 32px;
     .highlight {
         margin: 0 0 16px;
-        /** overflow: scroll;  修复代码高亮 显示两个 scroll的问题 **/ 
+        /** overflow: scroll;  修复代码高亮 显示两个 scroll的问题 **/
     }
     img {
         transition: .3s;
