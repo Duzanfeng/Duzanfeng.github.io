@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '个人博客'
-description: ''
-keyword: ''
+description: '个人的技术整理总结'
+keyword: 'web前端 前端开发 技术整理'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,8 +26,8 @@ footer:
 # Author 配置博主信息
 author: 'dzf'
 nickname: '1024'
-bio: '前端开发者'
-avatar: '/assets/img/profile.png'
+bio: 'web前端'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
