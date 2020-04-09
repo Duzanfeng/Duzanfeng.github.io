@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Hello Jekyll'
+title: 'Jekyll + GitHub'
 date: 2020-04-09
-author: Jekyll
-cover: 'http://jekyllcn.com/img/logo-2x.png'
-tags: jekyll
+author: Dzf
+cover: '/assets/img/jekyll-logo.jpg'
+tags: jekyll github 前端 个人博客
 ---
 
-> Transform your plain text into static websites and blogs.
+> 使用Jekyll模板，基于GitHub打造个人博客。
 
 ### Welcome
 
